@@ -1,0 +1,7 @@
+{
+  "name": "ionic-test-bloat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
